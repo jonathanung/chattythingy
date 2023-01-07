@@ -1,14 +1,1 @@
-##chattrr
-
-for fun project
-
-person 1 should be able to send message to person 2 and vice versa
-
-Store messages in states
-
-Name
-Send messages
-
-Big Group Chat
-
-
+##MADE WITH WILSONQIUU. THIS WAS FOR FUN AND MAY BE DEPLOYED
